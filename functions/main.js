@@ -82,4 +82,4 @@ function sumArrayValues (arr){
     return sum;
 }
 const numbers = [1,2,3,4,5]; 
-console.log(sumArrayValues(numbers));
+console.log(sumArrayValues(numbers)); //returns 15 
